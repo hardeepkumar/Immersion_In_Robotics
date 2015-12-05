@@ -1,0 +1,13 @@
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\_360_Controller.NET.exe.config
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\_360_Controller.NET.exe
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\_360_Controller.NET.pdb
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\obj\Debug\360 Controller .NET.csprojResolveAssemblyReference.cache
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\obj\Debug\_360_Controller.NET.exe
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\obj\Debug\_360_Controller.NET.pdb
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\SharpDX.XInput.dll
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\SharpDX.dll
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\SharpDX.XInput.xml
+c:\users\mjbradvica\documents\visual studio 2013\Projects\360 Controller .NET\360 Controller .NET\bin\Debug\SharpDX.xml
+C:\Users\MichaelB\Downloads\final code\360 Controller .NET\360 Controller .NET\bin\Debug\_360_Controller.NET.exe.config
+C:\Users\MichaelB\Downloads\final code\360 Controller .NET\360 Controller .NET\obj\Debug\_360_Controller.NET.exe
+C:\Users\MichaelB\Downloads\final code\360 Controller .NET\360 Controller .NET\obj\Debug\_360_Controller.NET.pdb
